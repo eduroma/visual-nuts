@@ -1,0 +1,17 @@
+{
+  "name": "visual-nuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:exercise1": "node exercise1/start.js",
+    "start:exercise2": "node exercise2/start.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "29.4.1"
+  }
+}
